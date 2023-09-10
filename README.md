@@ -3,7 +3,7 @@
 - apt update
 - apt upgrade -y
 - apt install git -y
-- git clone https://github.com/Takumi123x/rou.git
+- git clone https://github.com/SanthM/rou.git
 
 # Run this command
 - termux-setup-storage
